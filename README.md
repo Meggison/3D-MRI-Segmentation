@@ -9,7 +9,6 @@ CV_Assignment/
 ├── data/           # Raw data files
 ├── docs/           # Documentation and PDF files
 ├── images/         # Output images and results
-└── notebooks/      # Jupyter notebooks containing the analysis
 ```
 
 ## Overview
