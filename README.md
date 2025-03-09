@@ -27,10 +27,12 @@ This project implements and compares different image segmentation techniques for
 
 ### Comparison of Different Techniques
 ![Comparison](images/3D_compare.png)
+
 *Comparison of different segmentation approaches*
 
 ### Filtering Techniques
 ![Filtering Results](images/filter_techniques.png)
+
 *Analysis of various filtering techniques applied to the medical images*
 
 ### K-means Clustering
