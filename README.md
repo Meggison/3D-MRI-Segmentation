@@ -35,6 +35,7 @@ This project implements and compares different image segmentation techniques for
 
 ### K-means Clustering
 ![K-means Results](images/kmeans.png)
+
 *Results of K-means clustering segmentation*
 
 ## Implementation Details
