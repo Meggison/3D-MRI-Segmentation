@@ -54,7 +54,7 @@ The project uses brain MRI data (`Brain.mat`) for analysis and testing of the se
 
 ## Documentation
 
-Detailed documentation and the original assignment can be found in the `docs/` directory.
+Detailed documentation and the original assignment document can be found in the `docs/` directory.
 
 ## Key Findings
 
